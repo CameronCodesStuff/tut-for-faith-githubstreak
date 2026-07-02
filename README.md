@@ -1,14 +1,2 @@
-# tut-for-faith-githubstreak
----
-This is just so I can keep my GitHub contrabution streak whilst I am on the plane/travveling.
----
-All you need to do is;
-1. Click onto 'index.html' (you will also see instructions at the top)
-2. Click the pencil icon / edit (you may need to put you phone sideways to see it.
-3. Scroll right to the bottom untill you see '<div class="big-number">1' (line 49) and it also right under a note.
-4. Change the number from what it is, to either a number up or any number it dosn't matter.
-5. <div class="big-number">1 - In this example the number that you change is one.
-6. Once you have changed the number, scroll to the top of the file and click the "Comit changes..." button.
-7. Wait a second for it to load, and then click the next commit changes button that appears.
-
-
+🚀 Faith's GitHub Streak KeeperPurpose: This quick guide ensures you can easily maintain your GitHub contribution streak even while flying, traveling, or away from a computer.📱 Quick InstructionsFollow these simple steps on your mobile device or browser to keep your streak alive:Step 1: Open the Target FileNavigate to the repository and click on index.html (you will also see quick instructions at the top of that file).Step 2: Enter Edit ModeClick the Pencil Icon ($\mathit{Edit}$) to modify the file.💡 Tip: If you are on a phone, you may need to rotate your screen sideways (landscape) to see the edit button.Step 3: Locate the Streak CounterScroll all the way to the bottom of the file until you see the number container right under the developer note (around line 49):HTML<div class="big-number">1</div>
+Step 4: Update the ValueChange the number inside the <div> tag to any other number (e.g., if it's 1, change it to 2). It doesn't matter what number you pick, as long as it changes!Step 5: Save and CommitScroll to the top of the page and tap the "Commit changes..." button.Wait a brief moment for the confirmation dialog to load.Tap the second "Commit changes" button that appears to finalize it.
