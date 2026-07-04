@@ -1,4 +1,5 @@
-# 🔥 GitHub Streak Tutorial
+last update 1:36pm 4th july
+#🔥 GitHub Streak Tutorial
 
 > A quick guide to keep my GitHub contribution streak alive while i am on the plane ✈️
 
