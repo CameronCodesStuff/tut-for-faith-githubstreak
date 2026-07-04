@@ -1,4 +1,5 @@
-last update 1:36pm 4th july
+last update 7:42pm aus 4th july
+---
 #🔥 GitHub Streak Tutorial
 
 > A quick guide to keep my GitHub contribution streak alive while i am on the plane ✈️
