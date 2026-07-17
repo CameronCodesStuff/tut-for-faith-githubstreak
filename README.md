@@ -1,4 +1,4 @@
-#🔥 GitHub Streak Tutorial 1
+#🔥 GitHub Streak Tutorial 2
 
 > A quick guide to keep my GitHub contribution streak alive while i am on the plane ✈️
 
